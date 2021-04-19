@@ -1,4 +1,4 @@
-package com.KudryashevDaniil.Terminal;
+package com.KudryashevDaniil.terminal;
 
 public interface Terminal {
     void tryAuthorize(String pass);

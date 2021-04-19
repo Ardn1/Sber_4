@@ -1,4 +1,4 @@
-package com.KudryashevDaniil.TermoinalExepcions;
+package com.KudryashevDaniil.termoinalExepcions;
 
 public class AccountIsLockedException extends TerminalServerException {
 }

@@ -1,4 +1,4 @@
-package com.KudryashevDaniil.ValidatorExeptions;
+package com.KudryashevDaniil.validatorExeptions;
 
 public class NotCharException extends RuntimeException {
 }

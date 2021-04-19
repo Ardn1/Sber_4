@@ -1,4 +1,4 @@
-package com.KudryashevDaniil.TerminalServer;
+package com.KudryashevDaniil.terminalServer;
 
 public class Request {
     public Boolean status;

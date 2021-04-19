@@ -1,9 +1,8 @@
-package com.KudryashevDaniil.Terminal;
+package com.KudryashevDaniil.terminal;
 
-import com.KudryashevDaniil.TerminalServer.Request;
-import com.KudryashevDaniil.TerminalServer.TerminalServerImp;
-import com.KudryashevDaniil.TermoinalExepcions.*;
-import com.KudryashevDaniil.Validator.PinValidator;
+import com.KudryashevDaniil.terminalServer.Request;
+import com.KudryashevDaniil.terminalServer.TerminalServerImp;
+import com.KudryashevDaniil.termoinalExepcions.*;
 
 
 public class TerminalImp implements Terminal {

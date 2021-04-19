@@ -1,13 +1,11 @@
 package com.KudryashevDaniil;
 
-import com.KudryashevDaniil.TerminalConsole.TerminalConsole;
-import com.KudryashevDaniil.TerminalConsole.TerminalConsoleImp;
+import com.KudryashevDaniil.terminalConsole.TerminalConsole;
+import com.KudryashevDaniil.terminalConsole.TerminalConsoleImp;
 
-import javax.swing.text.Document;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLConnection;
 import java.util.Scanner;
 
 public class Main {

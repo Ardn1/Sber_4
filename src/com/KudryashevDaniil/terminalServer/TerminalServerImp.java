@@ -1,8 +1,7 @@
-package com.KudryashevDaniil.TerminalServer;
+package com.KudryashevDaniil.terminalServer;
 
 import java.sql.Timestamp;
 import java.time.Instant;
-import java.util.Random;
 
 public class TerminalServerImp implements TerminalServer {
     private String token = java.util.UUID.randomUUID().toString();

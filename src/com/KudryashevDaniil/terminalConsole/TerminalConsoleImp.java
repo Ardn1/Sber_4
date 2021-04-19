@@ -1,10 +1,10 @@
-package com.KudryashevDaniil.TerminalConsole;
+package com.KudryashevDaniil.terminalConsole;
 
-import com.KudryashevDaniil.Terminal.TerminalImp;
-import com.KudryashevDaniil.TermoinalExepcions.*;
-import com.KudryashevDaniil.Validator.PinValidator;
-import com.KudryashevDaniil.ValidatorExeptions.NotCharException;
-import com.KudryashevDaniil.ValidatorExeptions.NotNumberException;
+import com.KudryashevDaniil.terminal.TerminalImp;
+import com.KudryashevDaniil.termoinalExepcions.*;
+import com.KudryashevDaniil.validator.PinValidator;
+import com.KudryashevDaniil.validatorExeptions.NotCharException;
+import com.KudryashevDaniil.validatorExeptions.NotNumberException;
 
 import java.util.Scanner;
 

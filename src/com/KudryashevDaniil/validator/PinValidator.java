@@ -1,7 +1,7 @@
-package com.KudryashevDaniil.Validator;
+package com.KudryashevDaniil.validator;
 
-import com.KudryashevDaniil.ValidatorExeptions.NotCharException;
-import com.KudryashevDaniil.ValidatorExeptions.NotNumberException;
+import com.KudryashevDaniil.validatorExeptions.NotCharException;
+import com.KudryashevDaniil.validatorExeptions.NotNumberException;
 
 public class PinValidator {
     public boolean validate(String c) throws NotCharException, NotNumberException {

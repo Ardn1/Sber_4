@@ -1,4 +1,4 @@
-package com.KudryashevDaniil.TerminalConsole;
+package com.KudryashevDaniil.terminalConsole;
 
 public interface TerminalConsole {
     void authorize();
